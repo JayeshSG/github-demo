@@ -2,7 +2,7 @@ def add(x,y):
     pass
 
 def substract(x,y):
-    pass
+    return x-y          # on remote Feature1
 
 def multiply(x,y):
     pass
